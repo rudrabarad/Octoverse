@@ -18,10 +18,10 @@ Here I have mention simple stats to create your own **octocat** and contribute t
 
 ## STEP 3 
 - Fork this repository by clicking **Fork Button** on top right corner
-<img align="center" alt="fork" width=120 src="https://github.com/rudrabarad/Octoverse/blob/master/Assets/fork.PNG" />
+<img align="centre" alt="fork" width=120 src="https://github.com/rudrabarad/Octoverse/blob/master/Assets/fork.PNG" />
 
 - Now enter the **Octocats** folder and click on **Add File > Upload Files**
-<img align="center" alt="fork" width=250 src="https://github.com/rudrabarad/Octoverse/blob/master/Assets/add.PNG" />
+<img align="centre" alt="fork" width=250 src="https://github.com/rudrabarad/Octoverse/blob/master/Assets/add.PNG" />
 
 
 ## STEP 4
@@ -33,6 +33,6 @@ Here I have mention simple stats to create your own **octocat** and contribute t
 
 ## STEP 5 
 - Now click on **Compare** and check wether it shows ***Able to merge*** or not
-<img align="center" alt="fork" src="https://github.com/rudrabarad/Octoverse/blob/master/Assets/compare.PNG"/>
+<img align="centre" width=220 alt="fork" src="https://github.com/rudrabarad/Octoverse/blob/master/Assets/compare.PNG"/>
 
 
