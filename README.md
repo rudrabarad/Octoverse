@@ -8,11 +8,11 @@ Design a cretive Octocat and contribute to the Octroverse :electron:
 Don't worry, I've got your back :wink: <br>
 Here I have mention simple stats to create your own **octocat** and contribute to the Octoverse
 
-## STEP 1
+### STEP 1
 - Got to **[myoctocat.com](https://myoctocat.com/)** and create your own Octocat 
 - After designing, Click on Share and **Download** you Octocat
 
-## STEP 2
+### STEP 2
 - Downloaded Octocat will be in the form of **octocat.png**
 - Rename it to any exciting name you want to give it to your customized Octocat :star_struck:
 
@@ -34,5 +34,12 @@ Here I have mention simple stats to create your own **octocat** and contribute t
 ## STEP 5 
 - Now click on **Compare** and check wether it shows ***Able to merge*** or not
 <img align="centre" width=220 alt="fork" src="https://github.com/rudrabarad/Octoverse/blob/master/Assets/compare.PNG"/>
+
+- Now, if shows than ***Able to merge*** than click on **Create Pull Request**. If it shows **Merge Conflicts**, kindly pull the latest version of the repository and update your pull request.
+<img align="centre" alt="fork" src="https://github.com/rudrabarad/Octoverse/blob/master/Assets/merge.PNG"/>
+
+## LAST STEP
+Now again write your **GitHub Username** and any description about your Octocat and click **Create Pull Request**
+<img align="centre" alt="fork" src="https://github.com/rudrabarad/Octoverse/blob/master/Assets/pr2.PNG"/>
 
 
