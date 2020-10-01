@@ -1,5 +1,5 @@
 # Octoverse
-<img align="right" alt="Contest GIF" width=320 src="https://octodex.github.com/images/Fintechtocat.png" />
+<img align="right" alt="Contest GIF" width=320 src="https://octodex.github.com/images/jetpacktocat.png" />
 
 #### Hello Octolovers, :octocat: <br>
 Design a cretive Octocat and contribute to the Octroverse :electron:
