@@ -16,3 +16,14 @@ Here I have mention simple stats to create your own **octocat** and contribute t
 - Downloaded Octocat will be in the form of **octocat.png**
 - Rename it to any exciting name you want to give it to your customized Octocat :star_struck:
 
+## STEP 3 
+- Fork this repository by clicking **Fork Button** on top right corner
+- Now enter the **Octocats** folder and click on **Add File > Upload Files**
+
+## STEP 4
+- Now drag your customized octocat and add them to the repository ***(Don't forget to rename **octocat.png**)***
+- In commit message write your **GitHub Username** and in description, write the name of your octocat and mention why you kept :smile"
+
+## STEP 5 
+- Now click on **Compare** and check wether it shows ***Able to merge*** or not
+
