@@ -40,7 +40,7 @@ To contribute to the **Octoverse - Universe of the Octocats**, head over to [con
        <td align="center"><img src="https://github.com/rudrabarad/Octoverse/blob/master/Octocats/octoCemeraCat.png" height=180/><br/><b>OctoCemeraCat</b><br/><a href="https://github.com/omdhimar28">omdhimar28</a></td>
       <td align="center"><img src="https://github.com/rudrabarad/Octoverse/blob/master/Octocats/octoCowCat.png" height=180/><br/><b>OctoCowCat</b><br/><a href="https://github.com/omdhimar28">omdhimar28</a></td>
     <td align="center"><img src="https://github.com/rudrabarad/Octoverse/blob/master/Octocats/octoOm.png" height=180/><br/><b>OctoOm</b><br/><a href="https://github.com/omdhimar28">omdhimar28</a></td>
-        <td align="center"><img src="" height=180/><br/><b>[Name of your Octocat]</b><br/><a href="https://github.com/[Your GitHub Username">[Your GitHub Username]</a></td>
+        <td align="center"><img src="https://github.com/rudrabarad/Octoverse/blob/master/Octocats/Octo%20Quarantine%20Meeting.png" height=180/><br/><b>Octo Quaratine Meeting</b><br/><a href="https://github.com/curio-rimor">curio-rimor</a></td>
      </tr>
       
 </table>
