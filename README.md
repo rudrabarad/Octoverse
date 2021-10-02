@@ -43,8 +43,9 @@ To contribute to the **Octoverse - Universe of the Octocats**, head over to [con
         <td align="center"><img src="https://github.com/rudrabarad/Octoverse/blob/master/Octocats/Octo%20Quarantine%20Meeting.png" height=180/><br/><b>Octo Quaratine Meeting</b><br/><a href="https://github.com/curio-rimor">curio-rimor</a></td>
   </tr>
   <tr>
-        <td align="center"><img src="https://github.com/rudrabarad/Octoverse/blob/master/Octocats/Octahulu.png" height=180/><br/><b>Octo Quaratine Meeting</b><br/><a href="https://github.com/curio-rimor">curio-rimor</a></td>
-    <td align="center"><img src="https://github.com/rudrabarad/Octoverse/blob/master/Octocats/Scubacat.png" height=180/><br/><b>Octo Quaratine Meeting</b><br/><a href="https://github.com/curio-rimor">curio-rimor</a></td>
+        <td align="center"><img src="https://github.com/rudrabarad/Octoverse/blob/master/Octocats/Octahulu.png" height=180/><br/><b>Octhulu</b><br/><a href="https://github.com/curio-rimor">curio-rimor</a></td>
+    <td align="center"><img src="https://github.com/rudrabarad/Octoverse/blob/master/Octocats/Scubacat.png" height=180/><br/><b>Scubacat</b><br/><a href="https://github.com/curio-rimor">curio-rimor</a></td>
+    <td align="center"><img src="https://github.com/rudrabarad/Octoverse/blob/master/Octocats/Octapanda.png" height=180/><br/><b>Octapanda</b><br/><a href="https://github.com/curio-rimor">curio-rimor</a></td>
      </tr>
       
 </table>
