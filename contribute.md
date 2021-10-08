@@ -29,7 +29,7 @@ Below I have mention simple steps to create your own **octocat** and contribute 
 <img align="center" alt="fork" src="https://github.com/rudrabarad/Octoverse/blob/master/Assets/commit.PNG" />
 
 ## STEP 5 
-- Now click on **Compare** and check wether it shows ***Able to merge*** or not
+- Now click on **Compare** and check whether it shows ***Able to merge*** or not
 <img align="centre" width=220 alt="fork" src="https://github.com/rudrabarad/Octoverse/blob/master/Assets/compare.PNG"/>
 
 - Now, if shows than ***Able to merge*** than click on **Create Pull Request**. And, if it shows **Merge Conflicts**, then kindly pull (using ```git pull```) the latest version of the repository and update your pull request.
